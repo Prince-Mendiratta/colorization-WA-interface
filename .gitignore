@@ -1,0 +1,6 @@
+.wwebjs_auth
+node_modules
+dist
+imgs_out/*.png
+imgs/*.jpg
+__pycache__/*
